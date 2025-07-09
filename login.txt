@@ -56,6 +56,11 @@ text-align:center;
 <option value="debate">debate</option>
 <option value="music">music shows/option>
 <select>
+<label>Gender</label>
+<select>
+<option>Male</option>
+<option>Female</option>
+<option>Others</option>
 <button type="submit">register</button>
 </form>
 </body>
